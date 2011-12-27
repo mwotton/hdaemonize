@@ -1,10 +1,10 @@
-Name:		hdaemonize
-Version:	0.4.4
+Name:		hdaemonize-buildfix
+Version:	0.4.5
 Cabal-Version:  >= 1.6
 License:	BSD3
 License-file:   LICENSE
 Author:         Anton Tayanovskyy, Fred Ross
-Maintainer:     Fred Ross <madhadron at gmail dot com>
+Maintainer:     Fred Ross <madhadron at gmail dot com>, Mark Wotton <wotton@gmail.com> (trivial buildfix only)
 Homepage:       http://github.com/madhadron/hdaemonize
 Category:	System
 Synopsis:       Library to handle the details of writing daemons for UNIX
